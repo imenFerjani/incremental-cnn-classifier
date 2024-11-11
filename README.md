@@ -131,5 +131,4 @@ If you use this code in your research, please cite:
 
 ## Contact
 - Imen Ferjani
-- Email: imene.ferjani@enit.utm.tn
 - GitHub: [@imenFerjani](https://github.com/yourusername)
